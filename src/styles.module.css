@@ -128,6 +128,7 @@
 }
 
 .home__linc {
+  margin-left: 20px;
   font-weight: 800;
   font-size: 30px;
   transition-duration: var(--transition__duration);
