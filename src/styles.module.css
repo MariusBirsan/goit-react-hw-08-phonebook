@@ -120,7 +120,7 @@
 }
 .user__btn:hover {
   transform: scale(1.1);
-  background-color: var(--btn__red);
+  background-color: coral;
 }
 .form__btn:hover {
   transform: scale(1.1);
