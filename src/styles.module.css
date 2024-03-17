@@ -54,7 +54,7 @@
   top: 0;
   left: 0;
   z-index: 1100;
-  width: calc(100vw - 50px);
+  width: 100vw;
   background-color: coral;
   display: flex;
   flex-wrap: wrap;
